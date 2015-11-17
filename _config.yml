@@ -1,0 +1,23 @@
+name: BattleBears
+favicon: null
+layout_spectrum: 0.75527737964876
+typography_spectrum: 0.31632311013527215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.21233058138750494
+  lightness: 0.0856389100663364
+  saturation: 0.609561471035704
+  rhythmicContrast: 0.49120634980499744
+purpose: []
