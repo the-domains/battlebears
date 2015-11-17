@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[3,2,1 RAWR!]]></title>
+        <description><![CDATA[3,2,1 RAWR!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 Nov 2015 01:53:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[                            Supplies arrived today! Time to start making.]]></title>
+            <description><![CDATA[<h1>                            Supplies arrived today! Time to start making.</h1>]]></description>
+            <link>undefinedsupplies-arrived-today-time-to/index.html</link>
+            <guid isPermaLink="false">48c1a711-d3f3-40fa-a7a9-d808e4c7db53</guid>
+            <pubDate>Tue, 17 Nov 2015 01:53:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
